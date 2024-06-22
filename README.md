@@ -1,3 +1,9 @@
+# Chess-App
+
+This Chess App is one of my first projects using react and TypeScript and I did it following a turorial by "Frontend Coding" on youtube, and adding some improvements of my own. It was an amazing learning experience and it gave me great insight to the world of frontend development.
+
+Some things that I plan to implement are an option to play checkers as well and an option to play chess against the computer.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,4 +50,3 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-# Chess-App
